@@ -4,7 +4,6 @@
   box-sizing: border-box;
 }
 
-Acordate de eliminar esto
 .primera-actividad{
   width: 400px;
   height: 460px;
@@ -43,7 +42,7 @@ Acordate de eliminar esto
   position: absolute;
   margin-top: -180px;
   }
-y tambien eliminate esto de aca
+
 .bloque5{
     margin: 10px 40px;
  width: 130px;
@@ -61,7 +60,7 @@ y tambien eliminate esto de aca
   margin-top: -10px;
 
   }
-un par de cometnarios random
+
 .bloque7{
     margin: 10px 160px;
  width: 50px;
